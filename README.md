@@ -1,5 +1,6 @@
 # Spatial_Indexing_in-Python
-![image](https://github.com/user-attachments/assets/5acf2577-4071-40d5-9a73-35d1a14eef0e)
+![image](https://github.com/user-attachments/assets/77176c55-28ea-47fc-9d81-e9bdfc35d373)
+
 
 This code performs a spatial analysis to identify roads within a 100-meter buffer around specific points and visualizes the results on a map.
 
